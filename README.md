@@ -22,7 +22,7 @@ Soldered the electronics together
 (Not yet completed)
 
 ## OnShape link
-[OnShape Link](OnShape%link)
+[OnShape Link](OnShapeLink)
 
 ## Bill of Materials
 [BOM.csv](DuckBoard%2075%20BOM%20-%20Sheet1.csv)
