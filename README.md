@@ -9,14 +9,15 @@ Made a PCB on KiCad with a arduino nano and switches
 <img width="1621" height="890" alt="Screenshot 2026-07-30 192301" src="https://github.com/user-attachments/assets/0c2e8957-9f6b-452c-b6f7-c63aaabeb616" />
 
 Made a plate on OnShape using the PCB as a reference
-<img width="1363" height="713" alt="Screenshot 2026-08-01 114111" src="https://github.com/user-attachments/assets/7e0c1820-45e1-4452-9793-45671aa9aebc" />
-<img width="1549" height="706" alt="Screenshot 2026-08-01 111729" src="https://github.com/user-attachments/assets/1a7033fd-cf53-4e75-8407-6c535e15bc11" />
+<img width="1138" height="458" alt="Screenshot 2026-08-10 212719" src="https://github.com/user-attachments/assets/d7d71d5a-7a56-462d-b94d-6c9b631481f5" />
+<img width="1406" height="604" alt="Screenshot 2026-08-10 212730" src="https://github.com/user-attachments/assets/d6777845-53f0-4c0e-b471-7c0d1d67d394" />
 
 Made a bottom case
 <img width="1464" height="799" alt="Screenshot 2026-08-01 111654" src="https://github.com/user-attachments/assets/d205e84c-2959-47d1-85b4-aad2c72d8d11" />
+<img width="623" height="459" alt="Screenshot 2026-08-10 212657" src="https://github.com/user-attachments/assets/57312178-023c-4205-915d-2defdc1220f8" />
 
 Created the firmware
-(Not yet completed)
+[Completed](duckboard_firmware)
 
 Soldered the electronics together
 (Not yet completed)
