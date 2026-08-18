@@ -26,7 +26,7 @@ Soldered the electronics together
 [OnShape Link](OnShapeLink)
 
 ## Bill of Materials
-[BOM.csv](DuckBoard%2075%20BOM%20-%20Sheet1.csv)
+[BOM.csv](DuckBoard%2075%20BOM%20-%20DuckBoard%2075%20BOM%20-%20Sheet1.csv)
 | Item | Price (USD) | QTY | Purpose | Total + Shipping |
 | --- | --- | --- | --- | --- |
 | [PCB]([https://github.com](https://cart.jlcpcb.com/quote?spm=jlcpcb.Public.2006)) | $27.40 | 5 (minimum) | Electronics for keyboard |  |
