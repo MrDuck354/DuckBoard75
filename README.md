@@ -37,6 +37,7 @@ Soldered the electronics together
 | [Switches]([https://github.com](https://www.aliexpress.com/item/1005004285423123.html?spm=a2g0o.productlist.main.11.2f361b6e73HJZu&algo_pvid=a090be33-1bfd-4105-8713-c38f03b5d6f4&algo_exp_id=a090be33-1bfd-4105-8713-c38f03b5d6f4-10&pdp_ext_f=%7B%22order%22%3A%2213737%22%2C%22spu_best_type%22%3A%22price%22%2C%22eval%22%3A%221%22%2C%22fromPage%22%3A%22search%22%7D&pdp_npi=6%40dis%21USD%212.87%210.99%21%21%212.87%210.99%21%402101e7a317855436822738413e0d41%2112000028628937373%21sea%21NZ%217985869037%21ABX%211%210%21n_tag%3A-29910%3Bd%3Af3154200%3Bm03_new_user%3A-29895%3BpisId%3A5000000210976560&curPageLogUid=kVSF8tEkUPWA&utparam-url=scene%3Asearch%7Cquery_from%3A%7Cx_object_id%3A1005004285423123%7C_p_origin_prod%3A)) | $3.53 | 90pcs | switches |  |
 | [Micro Controller]([https://github.com](https://www.aliexpress.com/p/trade/confirm.html?shoppingCartIdString=81025824138227,81025930773702,81025824138112&shopcartIds=81025824138227,81025930773702,81025824138112&channelInfo=%7B%22sourceType%22%3A%22nn_mix%22%7D&aff_fcid=undefined)) | $2.64 | 1 | to control everything |  |
 | [Solder Wire]([https://github.com](https://www.aliexpress.com/p/trade/confirm.html?shoppingCartIdString=81025824138227,81025930773702,81025824138112&shopcartIds=81025824138227,81025930773702,81025824138112&channelInfo=%7B%22sourceType%22%3A%22nn_mix%22%7D&aff_fcid=undefined)) | $1.32 | 1 | to connect electronics |  |
+| 3D printing costs| $20 | 1 | to create the case| |
 | AliExpress Shipping | $6.50 |  | To get the items |  |
 | JLCPCB Shipping | $20.69 |  | To get the PCB |  |
-|  |  |  |  | $73.23 |
+|  |  |  |  | $94 |
