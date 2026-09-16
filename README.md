@@ -31,7 +31,7 @@ Click on the link below then copy and paste the link in a browser to go to OnSha
 
 Download the files in the link below if you want to edit or view them in another software
 
-[Case Files]("DuckBoard_75_Case")
+[Case Files](DuckBoard_75_Case)
 
 ## Bill of Materials
 [BOM.csv](DuckBoard%2075%20BOM%20-%20DuckBoard%2075%20BOM%20-%20Sheet1.csv)
