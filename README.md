@@ -5,22 +5,24 @@ To create a basic 75% keyboard
 By creating this keyboard, I will be learning how to 3D model/print on OnShape, how to create a PCB on KiCad and how to solder.
 
 ## Steps
-Made a PCB on KiCad with a arduino nano and switches
+Made a PCB on KiCad with an arduino nano RP2042 and switches, made the PCB first so that I can model the case around it. 
 <img width="1621" height="890" alt="Screenshot 2026-07-30 192301" src="https://github.com/user-attachments/assets/0c2e8957-9f6b-452c-b6f7-c63aaabeb616" />
 
-Made a plate on OnShape using the PCB as a reference
+Made a top plate on OnShape using the PCB as a reference
 <img width="1138" height="458" alt="Screenshot 2026-08-10 212719" src="https://github.com/user-attachments/assets/d7d71d5a-7a56-462d-b94d-6c9b631481f5" />
 <img width="1406" height="604" alt="Screenshot 2026-08-10 212730" src="https://github.com/user-attachments/assets/d6777845-53f0-4c0e-b471-7c0d1d67d394" />
 
-Made a bottom case
+Made a bottom case to fit everything and put it all together
 <img width="1464" height="799" alt="Screenshot 2026-08-01 111654" src="https://github.com/user-attachments/assets/d205e84c-2959-47d1-85b4-aad2c72d8d11" />
 <img width="623" height="459" alt="Screenshot 2026-08-10 212657" src="https://github.com/user-attachments/assets/57312178-023c-4205-915d-2defdc1220f8" />
 
-Created the firmware
+Created the firmware using iNimbleSloth's tutorial on youtube https://www.youtube.com/watch?v=9bjp_LteX_Y
 [Completed](duckboard_firmware)
 
 Soldered the electronics together
 (Not yet completed)
+
+For more information on how I made these parts or how they fit together, check my [JOURNAL.md](JOURNAL.md) where I documented my design process.
 
 ## OnShape link
 [OnShape Link](OnShapeLink)
