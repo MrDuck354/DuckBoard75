@@ -25,7 +25,10 @@ Soldered the electronics together
 For more information on how I made these parts or how they fit together, check my [JOURNAL.md](JOURNAL.md) where I documented my design process.
 
 ## OnShape link
+Click on the link below then copy and paste the link in a browser to go to OnShape
 [OnShape Link](OnShapeLink)
+Download the files in the link below if you want to edit or view them in another software
+[Case Files](DuckBoard_75_Case)
 
 ## Bill of Materials
 [BOM.csv](DuckBoard%2075%20BOM%20-%20DuckBoard%2075%20BOM%20-%20Sheet1.csv)
