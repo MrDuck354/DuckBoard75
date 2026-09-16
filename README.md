@@ -31,7 +31,7 @@ For more information on how I made these parts or how they fit together, check m
 [BOM.csv](DuckBoard%2075%20BOM%20-%20DuckBoard%2075%20BOM%20-%20Sheet1.csv)
 | Item | Price (USD) | QTY | Purpose | Total + Shipping |
 | --- | --- | --- | --- | --- |
-| [PCB]([https://github.com](https://cart.jlcpcb.com/quote?spm=jlcpcb.Public.2006)) | $27.40 | 5 (minimum) | Electronics for keyboard |  |
+| [PCB](https://cart.jlcpcb.com/quote?spm=jlcpcb.Public.2006) | $27.40 | 5 (minimum) | Electronics for keyboard |  |
 | [M2 Screws]([https://github.com](https://www.aliexpress.com/item/1005004527586307.html?spm=a2g0o.detail.0.0.11c3fgvnfgvnbD&mp=1&pdp_npi=6%40dis%21USD%21USD+1.13%21USD+1.11%21%21USD+1.11%21%21%21%402103212317823526741237199ea06e%2112000029486656873%21ct%21US%217547000002%21%211%210%21&gatewayAdapt=usa2glo4itemAdapt)) | $2.33 | 1 | To hold everything together |  |
 | [Keycaps]([https://github.com](https://www.aliexpress.com/item/1005004527586307.html?spm=a2g0o.detail.0.0.11c3fgvnfgvnbD&mp=1&pdp_npi=6%40dis%21USD%21USD+1.13%21USD+1.11%21%21USD+1.11%21%21%21%402103212317823526741237199ea06e%2112000029486656873%21ct%21US%217547000002%21%211%210%21&gatewayAdapt=usa2glo4itemAdapt)) | $6.93 | 1 | Keycaps |  |
 | [Stabilizers]([https://github.com](https://www.aliexpress.com/item/1005006528731543.html?spm=a2g0o.productlist.0.0.112352680K8Aiv&mp=1&pdp_npi=6%40dis%21USD%21USD+8.16%21USD+7.46%21%21USD+7.46%21%21%21%402103212317823524874202004ea06e%2112000037543723490%21ct%21US%217547000002%21%211%210%21&gatewayAdapt=usa2glo4itemAdapt)) | $8.84 | 1 | Stabilizers |  |
