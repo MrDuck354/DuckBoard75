@@ -157,3 +157,12 @@ I decided that It would be best for me to just get the funds for the 3d printed 
 <img width="315" height="196" alt="image" src="https://github.com/user-attachments/assets/6cb7ab23-e846-452b-9b50-2ea124ac40d3" />
 
 **Total time spent: 0.5 hours**
+
+
+# September 18th: Fixing BOM
+
+I added the proper names for both BOMs (the read me one and the .csv one) and fixed some of the links because they brought you to the shopping cart instead of the actual products. The keycaps were unavailable so I had to change them with different ones, these new keycaps were on sale for very cheap but the sale ends on the 21st of september so I put the normal price instead. This does raise the total price to $113.
+
+<img width="888" height="772" alt="image" src="https://github.com/user-attachments/assets/2ddc3492-a2d1-49f6-885e-565c8e335f65" />
+
+**Total time spent: 0.5 hours**
