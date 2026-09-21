@@ -27,7 +27,7 @@ For more information on how I made these parts or how they fit together, check m
 ## OnShape link
 Click on the link below then copy and paste the link in a browser to go to OnShape
 
-[OnShape Link](OnShapeLink)
+[OnShape Link](OnShapeLink.md)
 
 Download the files in the link below if you want to edit or view them in another software
 The assembly is too big to upload to GitHub so I had to compress it and can only add the .stl file and not the .step file. Unzip the .zip file and download the .stl file to view the case assembly.
