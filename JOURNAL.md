@@ -1,8 +1,8 @@
 ---
-Title: DuckBoard75
-Author: MrDuck354
-Description: A basic 75% keyboard with a 3d printed case, plate and a custom PCB
-Created on: 23/07/26
+title: "DuckBoard75"
+author: "MrDuck354"
+description: "A basic 75% keyboard with a 3d printed case, plate and a custom PCB"
+created_at: "2026-07-23"
 ---
 
 # July 29th: Designing my own PCB
