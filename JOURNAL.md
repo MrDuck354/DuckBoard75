@@ -20,7 +20,7 @@ Next steps: I will align all the parts of the PCB to make it look like an actual
 
 **Total time spent: 2.3 hours**
 
-#July 30th: Finishing PCB and starting the case
+# July 30th: Finishing PCB and starting the case
 
 Started by putting labels on all the connections I need so that I can see what isn't connected yet in the PCB tool. I then put all the switches in the correct spots and wired them up, then I added the diodes and wired them together. This whole process was very time consuming, I also went back to Scotto's tutorial to check if I missed anything or not. I added my PCB files to Github. Here's photos of my finished PCB
 
