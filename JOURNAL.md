@@ -147,7 +147,7 @@ Now everything is in the right places and fit together properly. Here are some s
 <img width="1138" height="458" alt="image" src="https://github.com/user-attachments/assets/1fa6ef3d-a5fc-4bf7-8128-2225b1595e50" />
 <img width="1406" height="604" alt="image" src="https://github.com/user-attachments/assets/443e74d0-f563-4c2d-a2e0-a2c8add7fec3" />
 
-**Total time spent: 2 hours**
+**Total time spent: 3 hours**
 
 # August 19th: Changing BOM
 
