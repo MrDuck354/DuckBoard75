@@ -165,10 +165,4 @@ I added the proper names for both BOMs (the read me one and the .csv one) and fi
 
 <img width="888" height="772" alt="image" src="https://github.com/user-attachments/assets/2ddc3492-a2d1-49f6-885e-565c8e335f65" />
 
-**Total time spent: 0.5 hours**---
-title: "DuckBoard 75%"
-author: "MrDuck354"
-description: "A basic 75% keyboard with 3d printed case and plate and a custom PCB."
-created_at: "2026-09-12"
----
-
+**Total time spent: 0.5 hours**
