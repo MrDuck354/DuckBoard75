@@ -33,7 +33,7 @@ Next steps: Continue designing the plate and then the case.
 
 **Total time spent: 2.6 hours**
 
-# Finishing the plate
+# July 31st: Finishing the plate
 
 Started off by adding squares in the plate for the switches to go into. They're supposed to be 14mm because that's the size holes that standard MX switches clip into but I made them 14.15mm because of any plastic shrinkage that may happen when I 3D print the case. After that I did a bit more research on the case and I wanted to add a line art of a duck to the case to make it more personalized but I had no clue how to re size a .dxf file so i'm just gonna leave that to a later date. The plate is 3mm thick but it needs to be 1.5mm around the switch for it to properly clip in so I added a second square which was extruded to 1.5mm instead of 3mm, I made the plate 3mm thick so that it wouldn't break easily under pressure. Here's some photos of the completed plate, i'll add screw holes later when I finish the bottom case because I don't really know where to put the holes right now.
 
