@@ -4,6 +4,14 @@
 To create a basic 75% keyboard
 By creating this keyboard, I will be learning how to 3D model/print on OnShape, how to create a PCB on KiCad and how to solder.
 
+## Project Information
+This project was inspired by a recent rabbit hole I went down in on youtube about custom keyboards, creators such as Glarses inspired me to get more into keyboards. Disappointed by my current HP office keyboard I wanted to get a mechanical keyboard but they're surprisingly expensive. I decided to design and build my own custom keyboard which would be a lot more affordable and a great learning opportunity for me. Also I just thought making my own keyboard would be a cool thing to flex on my friends...
+
+The PCB was designed with the help of tutorials made by Joe Scotto on youtube, it doesn't feature anything cool, it's just a simple 75% keyboard PCB.
+The case and top plate was made without any tutorials besides one to help me understand how OnShape works as I haven't used any of these softwares before. I want to make the case yellow or orange like a ducks bill so its more on theme for my name. 
+
+My keyboard features 82 standard mechanical keys, its wired with an unpluggable wire but I could make it a permanent wire later on, I used a rp2042 because it seemed to be an option other people were suggesting on reddit, I chose Outemu switches because it was the cheapest option which was also reputable online and I decided on brown tactiles because they sound nice and tactile switches are probably closest to my current membrane keyboard but I don't know because I've never used a mechanical keyboard. I also thought about putting foam in between the bottom and the PCB which I may decided upon later once this project is approved and I get the parts (insert my decision here). There wasn't much thought behind my software choices, I chose OnShape because people online said it was good and I get it for free through my school and I chose KiCad because everyone said it was the best.
+
 ## Steps
 Made a PCB on KiCad with an arduino nano RP2042 and switches, made the PCB first so that I can model the case around it. 
 <img width="1621" height="890" alt="Screenshot 2026-07-30 192301" src="https://github.com/user-attachments/assets/0c2e8957-9f6b-452c-b6f7-c63aaabeb616" />
