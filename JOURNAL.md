@@ -166,3 +166,31 @@ I added the proper names for both BOMs (the read me one and the .csv one) and fi
 <img width="888" height="772" alt="image" src="https://github.com/user-attachments/assets/2ddc3492-a2d1-49f6-885e-565c8e335f65" />
 
 **Total time spent: 0.5 hours**
+
+
+# October 8th: Expanded GitHub read me
+
+I added project information such as my design choices, project inspiration and my keyboards special features (there are no special features)
+
+<img width="888" height="543" alt="image" src="https://github.com/user-attachments/assets/392ece7c-d8b9-4b78-97f7-c0d83700e36d" />
+
+**Total time spent: 0.5 hours**
+
+
+# October 31st: Spliting the plate
+
+My project got approved!!!
+
+The parts also arrived a couple days ago but one problem arose when sending my case files to get 3d printed. It turns out that their largest 3d printer is just under 35cm x 35cm and my case is just slightly too big so I have to split it into multiple parts to get printed individually.
+
+First I decided to do the plate because I figured that would be the harder one to do. To start off I tried to split it by just making a line in a new sketch through part of the plate and split it using the split tool but it wouldn't allow me to select just a line to split it. After that I figured I would try a rectangle in the original sketch and just delete the extrude but it wouldn't split the sketch correctly so it would freak out when I try to move one part and would create multiple parts instead of just two. I revisited the line idea and used the extrude surface tool to make it go through the entire plate instead of being a surface line which ended up working. I split it apart and it successfully created 2 parts which could move and be exported
+
+<img width="1486" height="666" alt="image" src="https://github.com/user-attachments/assets/993ad126-ddae-400f-a646-2bfca3fb51d2" />
+
+After this I added little tabs so that it would be a bit stronger and could be put together easier. two parts are split at an area where I will not be putting much pressure so it wouldn't need to be that strong and I will super glue it together. To make the tabs I just used the line tool to create squares and then the boolean tool to join the tabs to the main part.
+
+<img width="1271" height="584" alt="image" src="https://github.com/user-attachments/assets/68007e46-2b61-4939-b446-555607a3452f" />
+
+Next I will work on the bottom case which will be much easier but i'll leave it till tomorrow.
+
+**Total time spent: 0.7 hours**
