@@ -194,3 +194,16 @@ After this I added little tabs so that it would be a bit stronger and could be p
 Next I will work on the bottom case which will be much easier but i'll leave it till tomorrow.
 
 **Total time spent: 0.7 hours**
+
+
+# November 1st: Spliting the bottom case
+
+Today I split the bottom case the same way I did with the plate. This was way easier than the plate because all the steps are the same so I already knew what I was supposed to do.
+
+<img width="1276" height="601" alt="image" src="https://github.com/user-attachments/assets/e46a07a5-8da9-4855-a366-ebc92cb80f17" />
+
+ended up with this simple part.
+
+Next I need to send this in to get 3d printed. While waiting for it I may try learning to solder or I might put that off till later.
+
+**Total time spent: 0.2 hours**
