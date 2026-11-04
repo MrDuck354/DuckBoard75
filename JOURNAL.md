@@ -192,6 +192,7 @@ After this I added little tabs so that it would be a bit stronger and could be p
 <img width="1271" height="584" alt="image" src="https://github.com/user-attachments/assets/68007e46-2b61-4939-b446-555607a3452f" />
 
 Next I will work on the bottom case which will be much easier but i'll leave it till tomorrow.
+https://lapse.hackclub.com/timelapse/5lVaOUR2STAh
 
 **Total time spent: 0.7 hours**
 
@@ -205,5 +206,28 @@ Today I split the bottom case the same way I did with the plate. This was way ea
 ended up with this simple part.
 
 Next I need to send this in to get 3d printed. While waiting for it I may try learning to solder or I might put that off till later.
+https://lapse.hackclub.com/timelapse/8UI20MP4YZUU
 
 **Total time spent: 0.2 hours**
+
+
+# November 4th: Fixing the plate
+
+omg this took so much longer than I thought it would...
+
+Yesterday I was having a look at all the parts while I wait for the case to be printed when I looked at the stabilizers. They came in multiple different parts and I searched up how to put it together because I was curious, turns out in the videos the stab holes looked a lot different than the ones on my plate so I wanted to change it so that it would fit. Previously I had just two small rectangles with nothing else because that's all I thought I needed but upon further research it turns out I need two notches for the clips and a hole for the wire to go under the plate.
+
+30 WHOLE MINUTES of research purely because literally no website would give me a diagram of the dimensions I needed. Eventually I stumbled across skwillkb, a website which generates a file of a keyboard plate. I used this website to create this file which I put into OnShape to get the dimensions of the stab holes.
+
+<img width="1418" height="829" alt="image" src="https://github.com/user-attachments/assets/46339c03-1887-42a5-8628-1516ad472847" />
+<img width="676" height="298" alt="image" src="https://github.com/user-attachments/assets/afef3963-d7ce-4fc0-b5cd-c6a6609e224e" />
+
+Using these measurements I added them to my plate which was a bit time consuming to start with but once I did one of the small ones I could just copy and paste them.
+
+<img width="1292" height="585" alt="image" src="https://github.com/user-attachments/assets/ac37ccf3-c1ed-45b0-b778-af7f018abff1" />
+
+I uploaded the fixed files to github and sent them to get 3d printed ensuring that I cancelled the past plate.
+
+Now I just wait for the parts to be printed. Unfortunately I forgot to start a timelapse so I dont have one to add :(
+
+**Total time spent: 1.2 hours**
