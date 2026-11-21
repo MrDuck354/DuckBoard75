@@ -231,3 +231,33 @@ I uploaded the fixed files to github and sent them to get 3d printed ensuring th
 Now I just wait for the parts to be printed. Unfortunately I forgot to start a timelapse so I dont have one to add :(
 
 **Total time spent: 1.2 hours**
+
+
+# November 6th: Soldering for the first time
+
+Finally decided to start soldering while waiting for the case to print. I went to my local department store and bought a cheap soldering iron which had good reviews. When I got home I got everything ready and began to soldering after watching two different tutorials on how to solder. It didn't seem that hard but it took me the first 3-4 joints to really get it down.
+
+Overall I soldered all of the diodes in 2 hours, I can't solder anything else right now because the switches need to go into the plate first then soldered on but I dont have the plate.
+
+I put everything away before taking photos of it so heres a screenshot from the timelapse of me soldering
+
+<img width="1917" height="993" alt="image" src="https://github.com/user-attachments/assets/46853ce1-3421-447a-9ff7-387411f20379" />
+
+Next I have to wait for the case.
+https://lapse.hackclub.com/timelapse/Q29UM8DFnn_H
+
+**Total time spent: 2 hours**
+
+
+# November 21st: Finishing the keyboard
+
+Today I finally finished the keyboard, I had a little problem with the parts where the pcb was designed for a arduino rp2040 nano connect but i actually ordered a raspberry pi pico which doesnt fit in the footprint and a nano is like 70 NZD so I ended up deciding to just hand wire the pico to the board. So first I soldered pin headers to both the board and the pico then wired it all up. then i got started on the switches, first putting them into the plate then soldering them in. I kinda messed up a bit with the stabilisers where they're supposed to go in first and then the switch but I got half way through soldering before I realised but I didnt really need the stabilisers for the smaller keys just the space bar which worked.
+
+Then after that long and tedious process I plugged it in, flashed the firmware and it was working but just working incorrectly, some keys werent working and some were outputting the wrong key which ended up being a problem with the wiring for my micro controller where I wired it to the wrong pin header. its all fixed now and working perfectly!
+
+(the time lapse is 3 hours 22 mins but I logged 3 hours 30 mins to account for the time spent wiring it and trouble shooting off camera)
+https://lapse.hackclub.com/timelapse/EIptWgBRSzdj
+
+<img width="1918" height="985" alt="Screenshot 2026-11-22 111933" src="https://github.com/user-attachments/assets/92f02b09-6121-4a63-88be-504149b6ff02" />
+
+**Total time sent: 3.5 hours**
