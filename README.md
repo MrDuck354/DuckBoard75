@@ -28,7 +28,9 @@ Created the firmware using iNimbleSloth's tutorial on youtube https://www.youtub
 [Completed](duckboard_firmware)
 
 Soldered the electronics together
-(Not yet completed)
+
+<img width="1917" height="993" alt="image" src="https://github.com/user-attachments/assets/ec2b5cf3-920a-412a-9ea0-e356f2598c2e" />
+<img width="1918" height="985" alt="image" src="https://github.com/user-attachments/assets/e5a54401-e746-42e5-a524-193fd4895f79" />
 
 For more information on how I made these parts or how they fit together, check my [JOURNAL.md](JOURNAL.md) where I documented my design process.
 
