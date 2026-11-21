@@ -260,4 +260,4 @@ https://lapse.hackclub.com/timelapse/EIptWgBRSzdj
 
 <img width="1918" height="985" alt="Screenshot 2026-11-22 111933" src="https://github.com/user-attachments/assets/92f02b09-6121-4a63-88be-504149b6ff02" />
 
-**Total time sent: 3.5 hours**
+**Total time spent: 3.5 hours**
